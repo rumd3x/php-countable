@@ -1,0 +1,23 @@
+{
+    "name": "rumd3x/php-countable",
+    "description": "Library for Object Oriented implementations of Counter utilities",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rumd3x",
+            "email": "edmurcardoso@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rumd3x\\Countable\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
