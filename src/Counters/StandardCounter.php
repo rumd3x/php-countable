@@ -7,7 +7,7 @@ use Rumd3x\Countable\Interfaces\Incrementable;
 use Rumd3x\Countable\Exceptions\NegativeQuantityException;
 
 /**
- * StandardCounter holds a counter, and can increment or decrement its value by impelementing
+ * StandardCounter holds a counter, and can increment or decrement its value by implementing
  * both Incrementable and Decrementable interfaces. It can also count to negatives.
  */
 class StandardCounter extends BasicCounter implements Incrementable, Decrementable
