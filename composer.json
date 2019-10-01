@@ -1,6 +1,6 @@
 {
     "name": "rumd3x/php-countable",
-    "description": "Library providing several Object Oriented utilities for Counting stuff",
+    "description": "Library providing several Object Oriented Counters and utilities for counting stuff",
     "type": "library",
     "license": "MIT",
     "authors": [
